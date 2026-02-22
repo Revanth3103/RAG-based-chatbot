@@ -14,15 +14,8 @@ Installed all the requirements
 PDF is split to embeddings and stored as vector data folder using python[ingest.py]
 Another file to read the data present in vector data[retriever.py] [i can say kind of mapping info]
 
-rag-chatbot/
-│
-├── app.py
-├── ingest.py
-├── retriever.py
-├── requirements.txt
-├── data/
-│    └── sample.pdf
-└── vectorstore/
+<img width="271" height="295" alt="image" src="https://github.com/user-attachments/assets/cc7e6bd3-b0ed-4582-b0a9-a5be80769aa9" />
+
 
 
 Outcome:
