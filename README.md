@@ -9,10 +9,20 @@ Local storage of > 20 GB
 OLLAMA embeddings 
 Streamlit[host]
 
-Here is what I did 
+Here is what I did: 
 Installed all the requirements 
 PDF is split to embeddings and stored as vector data folder using python[ingest.py]
 Another file to read the data present in vector data[retriever.py] [i can say kind of mapping info]
+
+rag-chatbot/
+│
+├── app.py
+├── ingest.py
+├── retriever.py
+├── requirements.txt
+├── data/
+│    └── sample.pdf
+└── vectorstore/
 
 
 Outcome:
